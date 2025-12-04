@@ -9,7 +9,7 @@ class CreateOrderRepositoryMock implements createOrderRepository {
     }
 }
 
-describe('US-2 : Création de commande', () => {
+describe('Création de commande', () => {
 
     test('succès avec commande valide', async () => {
         const repositoryMock = new CreateOrderRepositoryMock();
