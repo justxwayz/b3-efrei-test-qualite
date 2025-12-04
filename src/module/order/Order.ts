@@ -42,6 +42,7 @@ export class Order {
         this.productIds = productIds;
         this.totalPrice = totalPrice;
         this.status = OrderStatus.PENDING;
+        this.createdAt = new Date();
     }
 
     private validateProductIds(productIds: number[]) {
