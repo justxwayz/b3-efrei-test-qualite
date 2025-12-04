@@ -1,0 +1,6 @@
+projectKey=shopshop-api
+serverUrl=http://localhost:9000
+serverVersion=25.11.0.114957
+dashboardUrl=http://localhost:9000/dashboard?id=shopshop-api
+ceTaskId=23b38357-7465-41c5-9b5a-a61fe142a51d
+ceTaskUrl=http://localhost:9000/api/ce/task?id=23b38357-7465-41c5-9b5a-a61fe142a51d
